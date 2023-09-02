@@ -1,0 +1,3 @@
+Could not get imageUpload to post
+https://learn.nucamp.co/mod/book/view.php?id=3609&chapterid=4087
+Uploading Files
